@@ -1,4 +1,4 @@
-modName = "Neutronium Alloy";
+modName = "Neutronium_Alloy";
 modDescription = "Adds a hyper-durable metal that can survive up to 15 nukes and 10,000°C with zero heat conduction.";
 
 if (typeof elements === 'undefined') elements = {};
